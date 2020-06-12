@@ -1,0 +1,9 @@
+Asteriod Racer Game In PYTHON
+
+
+
+***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT ME *****  
+
+
+Using key arrows right and left you can use to move
+Do try it :)
